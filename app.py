@@ -18,7 +18,7 @@ CAMERA_1_NAME = "streetentrancecameraname"
 CAMERA_2_NAME = "streetexitcameraname"
 CAMERA_1_ID = "entrancecameraid"  # If you know the camera ID, enter it here
 CAMERA_2_ID = "exitcameraid"  # If you know the camera ID, enter it here
-DISTANCE_FEET = 1.46  # 1.46  = 17.5 inches between cameras, MEASURE your cameras distance with something like iOS Measure and then use that dstance converted to feet. (required for accurate speeds)
+DISTANCE_FEET = 1.46  # 1.46  = 17.5 inches between cameras, MEASURE your cameras distance with something like iOS Measure and then use that dstance converted to feet (required for accurate speeds).
 VEHICLE_LENGTH = 15  # Average vehicle length in feet (can be adjusted).
 SPEED_MULTIPLIER = 16.0 # averages out speeds, DO NOT mess with this.
 VERIFY_SSL = False
