@@ -85,6 +85,6 @@ The most important settings to get right:
 
 ## License
 
-This project is licensed under the [TEAL LVBS License](https://github.com/tealtwo/license).
+This project is licensed under the [Teal Lvbs License](https://github.com/tealtwo/license).
 
 Copyright ©️ Project Teal Lvbs
